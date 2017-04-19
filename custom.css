@@ -8,3 +8,6 @@ div.myCarousel{
 width: 100%; /* use this, or not */
 margin: auto;
 }
+
+#h1{ font-family: 'Montserrat', sans-serif;
+}
